@@ -16,3 +16,15 @@ Categories:
 
 ##### Model Building ##########
 The classification model has been built and has been converted into 2 categories from 5 categories for convience.
+For the classification RandomForest Classifier has been used.
+It mainly involves few basic steps:
+a.Data cleaning
+b.Exploratory Data Analysis (EDA)
+c.EDA (Feature Engineering)
+d.Normalisation
+e.Model Building
+
+##### Model Perormance #########
+Accuracy is the metric used in this testing the model performance
+Confusion matrix also helps in checking out True Positives and True Negatives
+
