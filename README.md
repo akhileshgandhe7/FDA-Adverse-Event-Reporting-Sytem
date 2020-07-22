@@ -23,8 +23,3 @@ b.Exploratory Data Analysis (EDA)
 c.EDA (Feature Engineering)
 d.Normalisation
 e.Model Building
-
-##### Model Perormance #########
-Accuracy is the metric used in this testing the model performance
-Confusion matrix also helps in checking out True Positives and True Negatives
-
